@@ -1,0 +1,16 @@
+Coca Cola Logo
+Coca Cola
+poster OR png OR wallpaper OR transparent OR hd OR jpg OR svg "Coca Cola"
+poster OR png OR wallpaper OR transparent OR hd OR jpg OR svg "Coca Cola logo"
+brand OR branding OR symbol "Coca Cola"
+brand OR branding OR symbol "Coca Cola logo"
+taste OR dinner OR party OR christmas "Coca Cola"
+taste OR dinner OR party OR christmas "Coca Cola logo"
+soft drink OR cola diet OR zero OR original OR bottle OR glass "Cola Cola"
+soft drink OR cola diet OR zero OR original OR bottle OR glass "Cola Cola logo"
+events OR conference "Coca Cola"
+events OR conference "Coca Cola logo"
+ads OR banner OR advertising OR marketing OR sponsoring OR media "Cola Cola"
+ads OR banner OR advertising OR marketing OR sponsoring OR media "Cola Cola logo"
+happiness OR sampling OR emotions OR football OR T-shirt "Cola Cola"
+happiness OR sampling OR emotions OR football OR T-shirt "Cola Cola logo"

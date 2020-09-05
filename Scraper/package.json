@@ -1,0 +1,19 @@
+{
+  "name": "puppeteerjson",
+  "version": "1.0.0",
+  "description": "for scrapping",
+  "main": "index.js",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "scrap"
+  ],
+  "author": "Sara OULIDI OMALI",
+  "license": "ISC"
+}

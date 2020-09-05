@@ -1,0 +1,16 @@
+Canon Logo
+Canon
+lens OR camera OR imprimante OR printer OR digital camera OR eos "Canon"
+T-shirt OR imprimante wifi OR printer wifi OR scanner OR mobile OR video camera "Canon"
+lens OR camera OR imprimante OR printer OR digital camera OR eos OR T-shirt OR imprimante wifi OR scanner OR mobile video camera "Canon logo"
+T-shirt OR imprimante wifi OR scanner OR mobile OR video camera "canon logo"
+events OR conference OR communication OR company OR photomarathon "Canon"
+events OR conference OR communication OR company OR photomarathon "Canon logo"
+événements OR conférence "Canon"
+événements OR conférence "Canon logo"
+poster OR png OR wallpaper OR transparent OR brand OR branding OR symbol OR hd OR jpg OR svg "Canon logo"
+poster OR png OR wallpaper OR transparent OR brand OR branding OR symbol OR hd OR jpg OR svg "Canon"
+ads OR banner OR advertising OR marketing OR sponsoring OR media "Canon"
+ads OR banner OR advertising OR marketing OR sponsoring OR media "Canon logo"
+produits OR products "Canon" 
+produits OR products "Canon logo" 
